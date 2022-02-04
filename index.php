@@ -9,4 +9,6 @@ $first_name = '慧';
 
 //viewの呼び出し
 require_once './tpl/view.php';
+
+//こんにちは
 ?>
